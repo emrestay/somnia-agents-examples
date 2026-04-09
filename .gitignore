@@ -1,10 +1,1 @@
-.DS_Store
-.cursor/
-node_modules/
-dist/
-cache/
-artifacts/
-typechain-types/
-.env
-somnia-agents-docs/
-HANDOFF.md
+
