@@ -21,7 +21,7 @@ contract PriceOracle {
     // ──────────────────────────────────────────────
 
     IAgentRequester public constant PLATFORM =
-        IAgentRequester(0x7407cb35a17D511D1Bd32dD726ADb8D5344ECbE3);
+        IAgentRequester(0x037Bb9C718F3f7fe5eCBDB0b600D607b52706776);
 
     uint256 public constant JSON_API_AGENT_ID = 13174292974160097713;
 
