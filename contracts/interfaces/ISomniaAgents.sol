@@ -3,7 +3,7 @@ pragma solidity ^0.8.24;
 
 /// @title Somnia Agents Platform Interface
 /// @notice Shared types and interfaces for interacting with Somnia AI Agents
-/// @dev Platform contract: 0x7407cb35a17D511D1Bd32dD726ADb8D5344ECbE3
+/// @dev Platform contract: 0x037Bb9C718F3f7fe5eCBDB0b600D607b52706776
 
 enum ConsensusType {
     Majority,
