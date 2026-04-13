@@ -79,7 +79,7 @@ npm run invoke:oracle
 | Chain ID | `50312` |
 | RPC | `https://api.infra.testnet.somnia.network` |
 | Explorer | [shannon-explorer.somnia.network](https://shannon-explorer.somnia.network) |
-| Platform Contract | `0x7407cb35a17D511D1Bd32dD726ADb8D5344ECbE3` |
+| Platform Contract | `0x037Bb9C718F3f7fe5eCBDB0b600D607b52706776` |
 | Agent Registry | `0x08D1Fc808f1983d2Ea7B63a28ECD4d8C885Cd02A` |
 
 > **Note:** The **Platform Contract** is where you send requests (`createRequest`). The **Agent Registry** stores agent metadata (names, methods, ABIs) — useful for discovery but not required if you already know the agent ID.
